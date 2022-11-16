@@ -1,0 +1,2 @@
+https://github.com/Max-Jaeger/redhat-PE180-exam-tips#Environment-Issues
+https://nahuelhernandez.com/blog/red_hat_certified_specialist_in_containers_and_kubernetes_exam_tips/
